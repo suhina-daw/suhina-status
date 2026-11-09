@@ -9,7 +9,7 @@
 <text x="174.8" y="20.0" font-size="12" fill="#5F5E5A">Planned</text>
 <rect x="238.4" y="11" width="10" height="10" rx="2" fill="#E24B4A"/>
 <text x="253.4" y="20.0" font-size="12" fill="#5F5E5A">Open bugs</text>
-<g><title>MIDI editing: 17 done, 6 in progress, 30 planned, 2 open bugs</title>
+<g><title>MIDI editing: 17 done, 6 in progress, 30 planned, 1 open bugs</title>
 <clipPath id="b0"><rect x="1.5" y="35.5" width="150.6" height="245.8" rx="6"/></clipPath>
 <g clip-path="url(#b0)">
 <rect x="1.5" y="35.5" width="150.6" height="245.8" fill="#F1EFE8"/>
@@ -19,7 +19,7 @@
 </g>
 <text x="9.5" y="56.5" font-size="13" font-weight="600" fill="#2C2C2A">MIDI editing</text>
 <rect x="122.1" y="255.3" width="22.0" height="16" rx="4" fill="#E24B4A"/>
-<text x="133.1" y="267.3" font-size="11" font-weight="600" text-anchor="middle" fill="#ffffff">2</text>
+<text x="133.1" y="267.3" font-size="11" font-weight="600" text-anchor="middle" fill="#ffffff">1</text>
 <text x="9.5" y="89.8" font-size="28" font-weight="600" fill="#2C2C2A">32%</text>
 <text x="9.5" y="104.8" font-size="11" fill="#5F5E5A">17 of 53 done</text>
 </g>
@@ -124,7 +124,7 @@
 <text x="284.4" y="220.5" font-size="28" font-weight="600" fill="#2C2C2A">22%</text>
 <text x="284.4" y="235.5" font-size="11" fill="#5F5E5A">4 of 18 done</text>
 </g>
-<g><title>Browser: 7 done, 1 in progress, 10 planned, 1 open bugs</title>
+<g><title>Browser: 7 done, 1 in progress, 10 planned, 2 open bugs</title>
 <clipPath id="b9"><rect x="276.4" y="263.4" width="112.7" height="109.2" rx="6"/></clipPath>
 <g clip-path="url(#b9)">
 <rect x="276.4" y="263.4" width="112.7" height="109.2" fill="#F1EFE8"/>
@@ -134,11 +134,11 @@
 </g>
 <text x="284.4" y="284.4" font-size="13" font-weight="600" fill="#2C2C2A">Browser</text>
 <rect x="359.2" y="346.6" width="22.0" height="16" rx="4" fill="#E24B4A"/>
-<text x="370.2" y="358.6" font-size="11" font-weight="600" text-anchor="middle" fill="#ffffff">1</text>
+<text x="370.2" y="358.6" font-size="11" font-weight="600" text-anchor="middle" fill="#ffffff">2</text>
 <text x="284.4" y="317.7" font-size="28" font-weight="600" fill="#2C2C2A">39%</text>
 <text x="284.4" y="332.7" font-size="11" fill="#5F5E5A">7 of 18 done</text>
 </g>
-<g><title>Projects and files: 3 done, 2 in progress, 12 planned, 1 open bugs</title>
+<g><title>Projects and files: 3 done, 2 in progress, 12 planned</title>
 <clipPath id="b10"><rect x="276.4" y="375.6" width="112.7" height="102.9" rx="6"/></clipPath>
 <g clip-path="url(#b10)">
 <rect x="276.4" y="375.6" width="112.7" height="102.9" fill="#F1EFE8"/>
@@ -148,9 +148,8 @@
 </g>
 <text x="284.4" y="396.6" font-size="13" font-weight="600" fill="#2C2C2A">Projects and</text>
 <text x="284.4" y="411.6" font-size="13" font-weight="600" fill="#2C2C2A">files</text>
-<rect x="359.2" y="452.5" width="22.0" height="16" rx="4" fill="#E24B4A"/>
-<text x="370.2" y="464.5" font-size="11" font-weight="600" text-anchor="middle" fill="#ffffff">1</text>
 <text x="284.4" y="444.8" font-size="28" font-weight="600" fill="#2C2C2A">18%</text>
+<text x="284.4" y="459.8" font-size="11" fill="#5F5E5A">3 of 17 done</text>
 </g>
 <g><title>Arrangement: 10 done, 3 in progress, 3 planned, 2 open bugs</title>
 <clipPath id="b11"><rect x="392.2" y="151.2" width="93.4" height="120.8" rx="6"/></clipPath>
@@ -248,7 +247,7 @@
 <text x="602.7" y="342.1" font-size="28" font-weight="600" fill="#2C2C2A">36%</text>
 <text x="602.7" y="357.1" font-size="11" fill="#5F5E5A">4 of 11 done</text>
 </g>
-<g><title>Plug-ins: 3 done, 0 in progress, 5 planned, 8 open bugs</title>
+<g><title>Plug-ins: 3 done, 0 in progress, 5 planned, 6 open bugs</title>
 <clipPath id="b18"><rect x="507.9" y="412.7" width="170.6" height="65.8" rx="6"/></clipPath>
 <g clip-path="url(#b18)">
 <rect x="507.9" y="412.7" width="170.6" height="65.8" fill="#F1EFE8"/>
@@ -258,7 +257,7 @@
 </g>
 <text x="515.9" y="433.7" font-size="13" font-weight="600" fill="#2C2C2A">Plug-ins</text>
 <rect x="648.5" y="452.5" width="22.0" height="16" rx="4" fill="#E24B4A"/>
-<text x="659.5" y="464.5" font-size="11" font-weight="600" text-anchor="middle" fill="#ffffff">8</text>
+<text x="659.5" y="464.5" font-size="11" font-weight="600" text-anchor="middle" fill="#ffffff">6</text>
 <text x="670.5" y="433.7" font-size="13" font-weight="600" text-anchor="end" fill="#2C2C2A">38%</text>
 </g>
 </svg>
