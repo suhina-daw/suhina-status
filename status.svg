@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="680" height="480" viewBox="0 0 680 480" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" role="img" aria-label="Suhina by area: 112 of 368 features done">
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="480" viewBox="0 0 680 480" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" role="img" aria-label="Suhina by area: 113 of 368 features done">
 <rect width="680" height="480" fill="#ffffff"/>
-<text x="678.0" y="20.0" font-size="12" font-weight="600" text-anchor="end" fill="#2C2C2A">30% · 112 of 368 done</text>
+<text x="678.0" y="20.0" font-size="12" font-weight="600" text-anchor="end" fill="#2C2C2A">31% · 113 of 368 done</text>
 <rect x="2.0" y="11" width="10" height="10" rx="2" fill="#1D9E75"/>
 <text x="17.0" y="20.0" font-size="12" fill="#5F5E5A">Done</text>
 <rect x="64.0" y="11" width="10" height="10" rx="2" fill="#EF9F27"/>
@@ -75,19 +75,19 @@
 <text x="163.1" y="399.0" font-size="28" font-weight="600" fill="#2C2C2A">61%</text>
 <text x="163.1" y="414.0" font-size="11" fill="#5F5E5A">14 of 23 done</text>
 </g>
-<g><title>Devices: 6 done, 3 in progress, 13 planned, 2 open bugs</title>
+<g><title>Devices: 7 done, 2 in progress, 13 planned, 2 open bugs</title>
 <clipPath id="b5"><rect x="276.4" y="35.5" width="134.1" height="112.7" rx="6"/></clipPath>
 <g clip-path="url(#b5)">
 <rect x="276.4" y="35.5" width="134.1" height="112.7" fill="#F1EFE8"/>
-<rect x="276.4" y="35.5" width="36.6" height="112.7" fill="#1D9E75" fill-opacity="0.16"/>
-<rect x="276.4" y="142.2" width="36.6" height="6" fill="#1D9E75"/>
-<rect x="313.0" y="142.2" width="18.3" height="6" fill="#EF9F27"/>
+<rect x="276.4" y="35.5" width="42.7" height="112.7" fill="#1D9E75" fill-opacity="0.16"/>
+<rect x="276.4" y="142.2" width="42.7" height="6" fill="#1D9E75"/>
+<rect x="319.1" y="142.2" width="12.2" height="6" fill="#EF9F27"/>
 </g>
 <text x="284.4" y="56.5" font-size="13" font-weight="600" fill="#2C2C2A">Devices</text>
 <rect x="380.5" y="122.2" width="22.0" height="16" rx="4" fill="#E24B4A"/>
 <text x="391.5" y="134.2" font-size="11" font-weight="600" text-anchor="middle" fill="#ffffff">2</text>
-<text x="284.4" y="89.8" font-size="28" font-weight="600" fill="#2C2C2A">27%</text>
-<text x="284.4" y="104.8" font-size="11" fill="#5F5E5A">6 of 22 done</text>
+<text x="284.4" y="89.8" font-size="28" font-weight="600" fill="#2C2C2A">32%</text>
+<text x="284.4" y="104.8" font-size="11" fill="#5F5E5A">7 of 22 done</text>
 </g>
 <g><title>Sync and control: 1 done, 4 in progress, 17 planned</title>
 <clipPath id="b6"><rect x="413.5" y="35.5" width="134.1" height="112.7" rx="6"/></clipPath>
@@ -126,13 +126,13 @@
 <text x="284.4" y="220.5" font-size="28" font-weight="600" fill="#2C2C2A">22%</text>
 <text x="284.4" y="235.5" font-size="11" fill="#5F5E5A">4 of 18 done</text>
 </g>
-<g><title>Browser: 7 done, 2 in progress, 9 planned, 4 open bugs</title>
+<g><title>Browser: 7 done, 3 in progress, 8 planned, 4 open bugs</title>
 <clipPath id="b9"><rect x="276.4" y="263.4" width="112.7" height="109.2" rx="6"/></clipPath>
 <g clip-path="url(#b9)">
 <rect x="276.4" y="263.4" width="112.7" height="109.2" fill="#F1EFE8"/>
 <rect x="276.4" y="263.4" width="43.8" height="109.2" fill="#1D9E75" fill-opacity="0.16"/>
 <rect x="276.4" y="366.6" width="43.8" height="6" fill="#1D9E75"/>
-<rect x="320.3" y="366.6" width="12.5" height="6" fill="#EF9F27"/>
+<rect x="320.3" y="366.6" width="18.8" height="6" fill="#EF9F27"/>
 </g>
 <text x="284.4" y="284.4" font-size="13" font-weight="600" fill="#2C2C2A">Browser</text>
 <rect x="359.2" y="346.6" width="22.0" height="16" rx="4" fill="#E24B4A"/>
@@ -249,7 +249,7 @@
 <text x="602.7" y="342.1" font-size="28" font-weight="600" fill="#2C2C2A">36%</text>
 <text x="602.7" y="357.1" font-size="11" fill="#5F5E5A">4 of 11 done</text>
 </g>
-<g><title>Plug-ins: 3 done, 0 in progress, 5 planned, 9 open bugs</title>
+<g><title>Plug-ins: 3 done, 0 in progress, 5 planned, 8 open bugs</title>
 <clipPath id="b18"><rect x="507.9" y="412.7" width="170.6" height="65.8" rx="6"/></clipPath>
 <g clip-path="url(#b18)">
 <rect x="507.9" y="412.7" width="170.6" height="65.8" fill="#F1EFE8"/>
@@ -259,7 +259,7 @@
 </g>
 <text x="515.9" y="433.7" font-size="13" font-weight="600" fill="#2C2C2A">Plug-ins</text>
 <rect x="648.5" y="452.5" width="22.0" height="16" rx="4" fill="#E24B4A"/>
-<text x="659.5" y="464.5" font-size="11" font-weight="600" text-anchor="middle" fill="#ffffff">9</text>
+<text x="659.5" y="464.5" font-size="11" font-weight="600" text-anchor="middle" fill="#ffffff">8</text>
 <text x="670.5" y="433.7" font-size="13" font-weight="600" text-anchor="end" fill="#2C2C2A">38%</text>
 </g>
 </svg>
