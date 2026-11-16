@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="680" height="480" viewBox="0 0 680 480" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" role="img" aria-label="Suhina by area: 113 of 368 features done">
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="480" viewBox="0 0 680 480" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" role="img" aria-label="Suhina by area: 114 of 368 features done">
 <rect width="680" height="480" fill="#0d1117"/>
-<text x="678.0" y="20.0" font-size="12" font-weight="600" text-anchor="end" fill="#F1EFE8">31% · 113 of 368 done</text>
+<text x="678.0" y="20.0" font-size="12" font-weight="600" text-anchor="end" fill="#F1EFE8">31% · 114 of 368 done</text>
 <rect x="2.0" y="11" width="10" height="10" rx="2" fill="#1D9E75"/>
 <text x="17.0" y="20.0" font-size="12" fill="#B4B2A9">Done</text>
 <rect x="64.0" y="11" width="10" height="10" rx="2" fill="#EF9F27"/>
@@ -37,7 +37,7 @@
 <text x="9.5" y="338.6" font-size="28" font-weight="600" fill="#F1EFE8">31%</text>
 <text x="9.5" y="353.6" font-size="11" fill="#B4B2A9">13 of 42 done</text>
 </g>
-<g><title>Automation: 9 done, 1 in progress, 16 planned</title>
+<g><title>Automation: 9 done, 1 in progress, 16 planned, 1 open bugs</title>
 <clipPath id="b2"><rect x="155.1" y="35.5" width="118.3" height="151.6" rx="6"/></clipPath>
 <g clip-path="url(#b2)">
 <rect x="155.1" y="35.5" width="118.3" height="151.6" fill="#2C2C2A"/>
@@ -46,6 +46,8 @@
 <rect x="196.1" y="181.1" width="4.5" height="6" fill="#EF9F27"/>
 </g>
 <text x="163.1" y="56.5" font-size="13" font-weight="600" fill="#F1EFE8">Automation</text>
+<rect x="243.4" y="161.1" width="22.0" height="16" rx="4" fill="#E24B4A"/>
+<text x="254.4" y="173.1" font-size="11" font-weight="600" text-anchor="middle" fill="#ffffff">1</text>
 <text x="163.1" y="89.8" font-size="28" font-weight="600" fill="#F1EFE8">35%</text>
 <text x="163.1" y="104.8" font-size="11" fill="#B4B2A9">9 of 26 done</text>
 </g>
@@ -157,19 +159,19 @@
 <text x="284.4" y="444.8" font-size="28" font-weight="600" fill="#F1EFE8">18%</text>
 <text x="284.4" y="459.8" font-size="11" fill="#B4B2A9">3 of 17 done</text>
 </g>
-<g><title>Arrangement: 10 done, 3 in progress, 3 planned, 2 open bugs</title>
+<g><title>Arrangement: 11 done, 2 in progress, 3 planned, 2 open bugs</title>
 <clipPath id="b11"><rect x="392.2" y="151.2" width="93.4" height="120.8" rx="6"/></clipPath>
 <g clip-path="url(#b11)">
 <rect x="392.2" y="151.2" width="93.4" height="120.8" fill="#2C2C2A"/>
-<rect x="392.2" y="151.2" width="58.4" height="120.8" fill="#1D9E75" fill-opacity="0.25"/>
-<rect x="392.2" y="266.1" width="58.4" height="6" fill="#1D9E75"/>
-<rect x="450.6" y="266.1" width="17.5" height="6" fill="#EF9F27"/>
+<rect x="392.2" y="151.2" width="64.2" height="120.8" fill="#1D9E75" fill-opacity="0.25"/>
+<rect x="392.2" y="266.1" width="64.2" height="6" fill="#1D9E75"/>
+<rect x="456.4" y="266.1" width="11.7" height="6" fill="#EF9F27"/>
 </g>
 <text x="400.2" y="170.2" font-size="11" font-weight="600" fill="#F1EFE8">Arrangement</text>
 <rect x="455.6" y="246.1" width="22.0" height="16" rx="4" fill="#E24B4A"/>
 <text x="466.6" y="258.1" font-size="11" font-weight="600" text-anchor="middle" fill="#ffffff">2</text>
-<text x="400.2" y="203.0" font-size="28" font-weight="600" fill="#F1EFE8">62%</text>
-<text x="400.2" y="218.0" font-size="11" fill="#B4B2A9">10 of 16 done</text>
+<text x="400.2" y="203.0" font-size="28" font-weight="600" fill="#F1EFE8">69%</text>
+<text x="400.2" y="218.0" font-size="11" fill="#B4B2A9">11 of 16 done</text>
 </g>
 <g><title>Audio to MIDI: 0 done, 1 in progress, 4 planned</title>
 <clipPath id="b12"><rect x="488.6" y="151.2" width="93.4" height="120.8" rx="6"/></clipPath>
@@ -223,7 +225,7 @@
 <text x="400.2" y="432.5" font-size="28" font-weight="600" fill="#F1EFE8">57%</text>
 <text x="400.2" y="447.5" font-size="11" fill="#B4B2A9">8 of 14 done</text>
 </g>
-<g><title>Look and settings: 3 done, 0 in progress, 12 planned, 3 open bugs</title>
+<g><title>Look and settings: 3 done, 0 in progress, 12 planned, 4 open bugs</title>
 <clipPath id="b16"><rect x="507.9" y="275.1" width="83.8" height="134.6" rx="6"/></clipPath>
 <g clip-path="url(#b16)">
 <rect x="507.9" y="275.1" width="83.8" height="134.6" fill="#2C2C2A"/>
@@ -234,7 +236,7 @@
 <text x="515.9" y="296.1" font-size="13" font-weight="600" fill="#F1EFE8">Look and</text>
 <text x="515.9" y="311.1" font-size="13" font-weight="600" fill="#F1EFE8">settings</text>
 <rect x="561.7" y="383.7" width="22.0" height="16" rx="4" fill="#E24B4A"/>
-<text x="572.7" y="395.7" font-size="11" font-weight="600" text-anchor="middle" fill="#ffffff">3</text>
+<text x="572.7" y="395.7" font-size="11" font-weight="600" text-anchor="middle" fill="#ffffff">4</text>
 <text x="515.9" y="344.3" font-size="28" font-weight="600" fill="#F1EFE8">20%</text>
 <text x="515.9" y="359.3" font-size="11" fill="#B4B2A9">3 of 15 done</text>
 </g>
