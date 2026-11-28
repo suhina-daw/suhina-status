@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="680" height="480" viewBox="0 0 680 480" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" role="img" aria-label="Suhina by area: 118 of 368 features done">
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="480" viewBox="0 0 680 480" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" role="img" aria-label="Suhina by area: 119 of 368 features done">
 <rect width="680" height="480" fill="#ffffff"/>
-<text x="678.0" y="20.0" font-size="12" font-weight="600" text-anchor="end" fill="#2C2C2A">32% · 118 of 368 done</text>
+<text x="678.0" y="20.0" font-size="12" font-weight="600" text-anchor="end" fill="#2C2C2A">32% · 119 of 368 done</text>
 <rect x="2.0" y="11" width="10" height="10" rx="2" fill="#1D9E75"/>
 <text x="17.0" y="20.0" font-size="12" fill="#5F5E5A">Done</text>
 <rect x="64.0" y="11" width="10" height="10" rx="2" fill="#EF9F27"/>
@@ -91,19 +91,19 @@
 <text x="284.4" y="89.8" font-size="28" font-weight="600" fill="#2C2C2A">32%</text>
 <text x="284.4" y="104.8" font-size="11" fill="#5F5E5A">7 of 22 done</text>
 </g>
-<g><title>Sync and control: 1 done, 4 in progress, 17 planned, 1 open bugs</title>
+<g><title>Sync and control: 2 done, 6 in progress, 14 planned, 1 open bugs</title>
 <clipPath id="b6"><rect x="413.5" y="35.5" width="134.1" height="112.7" rx="6"/></clipPath>
 <g clip-path="url(#b6)">
 <rect x="413.5" y="35.5" width="134.1" height="112.7" fill="#F1EFE8"/>
-<rect x="413.5" y="35.5" width="6.1" height="112.7" fill="#1D9E75" fill-opacity="0.16"/>
-<rect x="413.5" y="142.2" width="6.1" height="6" fill="#1D9E75"/>
-<rect x="419.6" y="142.2" width="24.4" height="6" fill="#EF9F27"/>
+<rect x="413.5" y="35.5" width="12.2" height="112.7" fill="#1D9E75" fill-opacity="0.16"/>
+<rect x="413.5" y="142.2" width="12.2" height="6" fill="#1D9E75"/>
+<rect x="425.7" y="142.2" width="36.6" height="6" fill="#EF9F27"/>
 </g>
 <text x="421.5" y="56.5" font-size="13" font-weight="600" fill="#2C2C2A">Sync and control</text>
 <rect x="517.6" y="122.2" width="22.0" height="16" rx="4" fill="#E24B4A"/>
 <text x="528.6" y="134.2" font-size="11" font-weight="600" text-anchor="middle" fill="#ffffff">1</text>
-<text x="421.5" y="89.8" font-size="28" font-weight="600" fill="#2C2C2A">5%</text>
-<text x="421.5" y="104.8" font-size="11" fill="#5F5E5A">1 of 22 done</text>
+<text x="421.5" y="89.8" font-size="28" font-weight="600" fill="#2C2C2A">9%</text>
+<text x="421.5" y="104.8" font-size="11" fill="#5F5E5A">2 of 22 done</text>
 </g>
 <g><title>Instruments: 0 done, 4 in progress, 17 planned</title>
 <clipPath id="b7"><rect x="550.6" y="35.5" width="127.9" height="112.7" rx="6"/></clipPath>
